@@ -338,7 +338,11 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+<<<<<<< HEAD
+   "execution_count": 18,
+=======
+   "execution_count": 265,
+>>>>>>> hitesh_dev
    "metadata": {},
    "outputs": [
     {
@@ -358,7 +362,10 @@
        "Length: 68, dtype: float64"
       ]
      },
-     "execution_count": null,
+<<<<<<< HEAD
+     "execution_count": 18,
+=======
+     "execution_count": 265,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -422,6 +429,7 @@
       ]
      },
      "execution_count": 268,
+>>>>>>> hitesh_dev
      "metadata": {},
      "output_type": "execute_result"
     }
